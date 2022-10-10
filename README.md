@@ -1,8 +1,4 @@
-# Ignite Timer
-
-<h1 align="center">
-    <img alt="coffe-delivery" src="https://github.com/eugenioarantes/ignite-timer/blob/master/src/assets/logo-ignite.svg" width="250px" />
-</h1>
+<h1>Ignite Timer</h1>
 
 <br><br>
 
